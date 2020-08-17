@@ -5,6 +5,7 @@
     "keywords": ["package", "demo", "utilsall"],
     "homepage": "https://github.com/Moncki/say-hello",
     "license": "none",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Eduardo Lara",
